@@ -1,2 +1,2 @@
-# cv
-My CV written in LaTeX
+# Curriculum Vitae
+My Curriculum Vitae written in LaTeX
